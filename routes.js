@@ -1,3 +1,5 @@
+// Routes could be moved here eventually
+
 // const pathMatch = require('path-match')
 // const route = pathMatch()
 
