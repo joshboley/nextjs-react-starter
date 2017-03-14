@@ -1,0 +1,3 @@
+export const PUT_PAGE_TITLE = 'PUT_PAGE_TITLE';
+export const PUT_CURRENT_BLOG_POST = 'PUT_CURRENT_BLOG_POST';
+export const PUT_ALL_BLOGS = 'PUT_ALL_BLOGS';
